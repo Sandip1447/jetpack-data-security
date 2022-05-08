@@ -14,3 +14,9 @@ dependencies {
     implementation("androidx.security:security-crypto:1.0.0")
 }
 
+## Sample screen attched.
+
+![Screenshot_20220508_124119](https://user-images.githubusercontent.com/16761010/167285883-674ff9a4-ef16-4b3b-bf77-bee41ba8a5f0.png)
+
+### encrypted shared preferences data file
+![Screenshot 2022-05-08 124217](https://user-images.githubusercontent.com/16761010/167285896-617676a4-e4c3-45e4-bb46-99dd00787c34.png)
