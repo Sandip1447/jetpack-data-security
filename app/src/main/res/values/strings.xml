@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataEncriptionSample</string>
+    <string name="title_activity_maps" translatable="true">Maps</string>
+</resources>
